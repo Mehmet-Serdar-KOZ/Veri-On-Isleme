@@ -15,6 +15,9 @@ Veri Ön İşlemenin Temel Adımları:
 
 
 
+
+
+
 1- Veri Temizlemede Hangi Yöntemler Kullanılır?
 
 Eksik Veri
